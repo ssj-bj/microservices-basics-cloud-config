@@ -24,8 +24,8 @@ security:
     resource:
       jwt:
         keyValue: |
-          -----BEGIN PUBLIC KEY-----
-          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhVny3DfQqdvQaPj6SJiiFfPRGH/5k3OiAXTCsmpKnL/GVKZpfFjT3LhN7xoj0DzJLTCOE94eOjIHipFzxrL00kBCZJ3HOornKDpTh17yPuqJI6DNmvJaRBbc3SVQsO0vndnDAeOBiv4euGHH97sPZYFqhmwM35PboqxeWaHrfgWcA5F8VFTp+HDPr26G4sv/UqkR1LsfRoD4gzNJswi00eWcNjeoEzy71023VECQYDytUg/wVqWOJnShWOJnCBnuzmjrtOCg6O6ecdHhVaiRI0//ZR71x2oDW5pe+kgVhhM29TH8SVRjbAFh35obN6ppcF3A7PFLf+euZTsmXMaahQIDAQAB
+          -----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1iK+fOA3QMSgMabl0HeYMMZiVKa+dXUIxKuXbLJHNOi72SJCBJms6vwqhmeY8f8juUe9hAvBu5YYKUOThKyfTuGz33xoGdSO+WtyqlV8+j5K0mIazJthLj8ZANJ+84q7oUJLsNJOWQeaSkPpxLSXnZItNlRA2g9eiFRF1Tudau4Tg9SoXmK2kBo/pnSBWUsgp+zluLVhyUbrPrfV2a4ulSjFAC/hoes2pkmILCdboDgPiTaCZK3UCeJKeywrphq/eMKSLWiOcGhMlkH3ccuILNOIdMZK7nRIHz1zAQOgy/HiUdR6lv5j2xdOuUetHTBf8KTyF9jGPvyhqzYeMeyHAwIDAQAB
+          
           -----END PUBLIC KEY-----
 ---
 # comments-webservice instance when used on Docker
